@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Phoenix Assoc</title>
+        <title>About - Phoenix Assoc</title>
         <meta
           name="description"
           content="App for Phoenix Assoc's Inductions in 2-1"
